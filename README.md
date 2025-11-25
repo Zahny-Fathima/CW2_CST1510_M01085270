@@ -1,6 +1,6 @@
 # Week 7: Secure Authentication System
-Student Name: [Your Name] In [ ]:
-Student ID: [Your Student_ID]
+Student Name: Zahny Fathima
+Student ID: M01085270
 Course: CST1510 -CW2 - Multi-Domain Intelligence Platform
 ## Project Description
 A command-line authentication system implementing secure password hashing
