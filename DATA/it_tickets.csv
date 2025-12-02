@@ -1,0 +1,501 @@
+ticket_id,issue,priority,assigned_to,status
+1,Login Failure,High,David,In Progress
+2,Network Down,Low,Charlie,Open
+3,Hardware Issue,Urgent,David,In Progress
+4,Login Failure,Low,Charlie,In Progress
+5,Software Bug,High,Bob,In Progress
+6,Network Down,High,Alice,Resolved
+7,Login Failure,High,Bob,Open
+8,Software Bug,Urgent,Alice,Open
+9,Login Failure,High,Alice,Open
+10,Login Failure,Medium,Charlie,In Progress
+11,Hardware Issue,Low,Bob,In Progress
+12,Network Down,High,Alice,In Progress
+13,Software Bug,Urgent,Charlie,Resolved
+14,Network Down,Urgent,David,In Progress
+15,Login Failure,Low,Charlie,In Progress
+16,Login Failure,Low,Bob,Open
+17,Software Bug,Low,Charlie,Open
+18,Software Bug,Urgent,David,Closed
+19,Hardware Issue,Urgent,Charlie,Closed
+20,Network Down,High,Charlie,Open
+21,Login Failure,Medium,Alice,Closed
+22,Network Down,Medium,Alice,In Progress
+23,Network Down,Low,David,Closed
+24,Login Failure,Low,Charlie,In Progress
+25,Network Down,Medium,David,Resolved
+26,Software Bug,Urgent,Alice,Resolved
+27,Login Failure,Low,Alice,Resolved
+28,Login Failure,Medium,Bob,Closed
+29,Network Down,Low,Alice,Open
+30,Software Bug,Medium,Charlie,Resolved
+31,Login Failure,Urgent,Charlie,Closed
+32,Hardware Issue,High,Charlie,Resolved
+33,Hardware Issue,Low,Alice,Open
+34,Login Failure,Medium,Alice,In Progress
+35,Software Bug,Urgent,David,In Progress
+36,Hardware Issue,Low,Alice,Closed
+37,Software Bug,High,Bob,In Progress
+38,Network Down,Low,Alice,In Progress
+39,Login Failure,Medium,David,Open
+40,Hardware Issue,Medium,Bob,Open
+41,Network Down,Medium,Charlie,Closed
+42,Login Failure,Medium,Charlie,Closed
+43,Login Failure,High,Bob,In Progress
+44,Login Failure,Urgent,Alice,Open
+45,Software Bug,Low,Charlie,In Progress
+46,Software Bug,High,Bob,Open
+47,Software Bug,Urgent,Bob,Open
+48,Hardware Issue,Medium,Bob,Closed
+49,Network Down,Medium,David,Resolved
+50,Software Bug,Medium,Alice,Open
+51,Software Bug,Low,Charlie,Open
+52,Software Bug,High,Charlie,Open
+53,Network Down,Medium,Alice,Closed
+54,Software Bug,Low,Alice,In Progress
+55,Hardware Issue,High,Bob,Resolved
+56,Network Down,Urgent,Bob,Closed
+57,Login Failure,Low,David,Open
+58,Network Down,Low,David,Resolved
+59,Network Down,Low,David,Open
+60,Hardware Issue,High,David,Resolved
+61,Software Bug,Urgent,Bob,Closed
+62,Login Failure,Medium,Bob,Open
+63,Software Bug,High,Alice,Open
+64,Software Bug,Low,Bob,In Progress
+65,Hardware Issue,Medium,Bob,Resolved
+66,Network Down,Medium,Charlie,In Progress
+67,Hardware Issue,High,Charlie,Closed
+68,Login Failure,Medium,Charlie,Open
+69,Network Down,High,Charlie,Resolved
+70,Hardware Issue,Urgent,Alice,In Progress
+71,Hardware Issue,Low,Bob,Resolved
+72,Software Bug,Urgent,Bob,Open
+73,Hardware Issue,High,Bob,In Progress
+74,Network Down,Urgent,David,Closed
+75,Login Failure,Medium,Bob,Closed
+76,Software Bug,Urgent,David,Open
+77,Network Down,High,Charlie,Open
+78,Login Failure,High,David,Open
+79,Login Failure,High,Bob,In Progress
+80,Software Bug,Low,David,Closed
+81,Hardware Issue,Low,Charlie,Closed
+82,Login Failure,Urgent,Charlie,Open
+83,Network Down,Medium,David,Open
+84,Network Down,Low,Charlie,Resolved
+85,Software Bug,Medium,Alice,In Progress
+86,Network Down,Medium,David,In Progress
+87,Login Failure,High,Bob,Closed
+88,Login Failure,Urgent,David,Resolved
+89,Software Bug,Urgent,Bob,In Progress
+90,Network Down,Medium,David,In Progress
+91,Software Bug,High,David,Closed
+92,Network Down,Medium,Charlie,Closed
+93,Hardware Issue,High,Alice,Open
+94,Hardware Issue,Urgent,Charlie,Closed
+95,Network Down,Low,David,In Progress
+96,Hardware Issue,Urgent,Charlie,Resolved
+97,Login Failure,High,Charlie,In Progress
+98,Network Down,Low,Charlie,Open
+99,Network Down,Medium,Alice,Resolved
+100,Software Bug,Low,Alice,Open
+101,Login Failure,Low,Bob,Open
+102,Login Failure,High,Bob,Resolved
+103,Network Down,High,Charlie,Resolved
+104,Login Failure,Low,Alice,In Progress
+105,Software Bug,Low,David,Resolved
+106,Hardware Issue,Urgent,Bob,In Progress
+107,Network Down,Low,Alice,Closed
+108,Hardware Issue,Low,Bob,Resolved
+109,Network Down,High,David,In Progress
+110,Login Failure,Low,Bob,Open
+111,Login Failure,High,Alice,Closed
+112,Software Bug,Medium,Charlie,Closed
+113,Software Bug,Low,Alice,Resolved
+114,Login Failure,Urgent,Bob,Resolved
+115,Software Bug,Low,Bob,Open
+116,Login Failure,Urgent,David,In Progress
+117,Software Bug,Urgent,Charlie,Open
+118,Hardware Issue,Low,Charlie,Closed
+119,Software Bug,Urgent,Alice,Resolved
+120,Hardware Issue,Medium,David,Closed
+121,Login Failure,High,David,In Progress
+122,Network Down,Urgent,Alice,Closed
+123,Network Down,High,Bob,In Progress
+124,Software Bug,Medium,Alice,Closed
+125,Software Bug,Low,Charlie,Open
+126,Hardware Issue,Low,Alice,Open
+127,Software Bug,Low,Charlie,Closed
+128,Login Failure,Medium,David,In Progress
+129,Hardware Issue,Medium,David,Open
+130,Software Bug,Low,Alice,Open
+131,Network Down,Urgent,Alice,Open
+132,Network Down,Medium,Alice,Resolved
+133,Software Bug,Urgent,Alice,Resolved
+134,Network Down,High,Bob,Open
+135,Software Bug,High,Alice,Closed
+136,Login Failure,High,Alice,Open
+137,Login Failure,Urgent,Alice,Closed
+138,Network Down,Urgent,Alice,Resolved
+139,Hardware Issue,Low,Bob,Open
+140,Network Down,Medium,Charlie,In Progress
+141,Software Bug,Low,Charlie,Resolved
+142,Login Failure,Low,David,In Progress
+143,Hardware Issue,Urgent,Alice,In Progress
+144,Network Down,High,Alice,Open
+145,Network Down,Urgent,Bob,Open
+146,Hardware Issue,Low,Bob,In Progress
+147,Hardware Issue,Urgent,Alice,Closed
+148,Network Down,Medium,Bob,Closed
+149,Software Bug,Medium,Alice,In Progress
+150,Hardware Issue,High,Alice,Closed
+151,Login Failure,Urgent,Charlie,In Progress
+152,Software Bug,High,David,Open
+153,Network Down,Low,David,In Progress
+154,Network Down,Urgent,David,Open
+155,Hardware Issue,Urgent,Charlie,In Progress
+156,Network Down,Low,Alice,In Progress
+157,Hardware Issue,High,Bob,In Progress
+158,Network Down,Low,Alice,Open
+159,Login Failure,Medium,Alice,Open
+160,Software Bug,Urgent,David,Resolved
+161,Software Bug,Medium,Alice,Resolved
+162,Network Down,Low,Bob,In Progress
+163,Login Failure,Low,David,Closed
+164,Software Bug,Low,David,Open
+165,Login Failure,Urgent,Bob,Closed
+166,Hardware Issue,High,David,Resolved
+167,Network Down,High,Alice,Open
+168,Software Bug,Low,Bob,In Progress
+169,Software Bug,High,Charlie,In Progress
+170,Login Failure,Medium,Charlie,Resolved
+171,Software Bug,Low,Bob,Open
+172,Hardware Issue,Low,Charlie,Open
+173,Network Down,Medium,David,Closed
+174,Login Failure,Urgent,Charlie,Open
+175,Login Failure,Medium,Alice,Resolved
+176,Software Bug,Urgent,Charlie,Closed
+177,Login Failure,Medium,Bob,Open
+178,Hardware Issue,Low,Alice,In Progress
+179,Login Failure,Medium,David,In Progress
+180,Login Failure,High,Alice,Open
+181,Network Down,Urgent,Bob,Closed
+182,Hardware Issue,High,Bob,Open
+183,Login Failure,Urgent,David,In Progress
+184,Software Bug,High,Bob,In Progress
+185,Login Failure,High,Charlie,Open
+186,Hardware Issue,Low,Alice,In Progress
+187,Software Bug,Urgent,Alice,In Progress
+188,Login Failure,Medium,Charlie,Closed
+189,Software Bug,High,Charlie,Resolved
+190,Software Bug,Low,Charlie,In Progress
+191,Network Down,Urgent,David,Closed
+192,Hardware Issue,Medium,Bob,Resolved
+193,Network Down,Low,David,Resolved
+194,Network Down,Low,Bob,Closed
+195,Login Failure,Low,Alice,Resolved
+196,Network Down,Low,Alice,Open
+197,Software Bug,Low,Alice,Resolved
+198,Network Down,Medium,David,Closed
+199,Hardware Issue,Urgent,Charlie,Open
+200,Network Down,High,Bob,In Progress
+201,Software Bug,High,Charlie,In Progress
+202,Network Down,Urgent,David,In Progress
+203,Software Bug,High,Bob,Closed
+204,Software Bug,Low,Charlie,Resolved
+205,Hardware Issue,Low,Charlie,In Progress
+206,Login Failure,Urgent,Bob,Closed
+207,Software Bug,Low,Charlie,Resolved
+208,Network Down,Medium,Alice,In Progress
+209,Hardware Issue,High,Bob,In Progress
+210,Hardware Issue,High,Charlie,In Progress
+211,Login Failure,Medium,David,Closed
+212,Hardware Issue,Medium,Bob,Resolved
+213,Hardware Issue,Low,Bob,Open
+214,Software Bug,High,David,In Progress
+215,Network Down,Medium,Bob,Open
+216,Login Failure,High,Bob,Resolved
+217,Software Bug,High,David,Closed
+218,Network Down,Urgent,Alice,Open
+219,Login Failure,High,Bob,Resolved
+220,Software Bug,High,Charlie,Resolved
+221,Login Failure,Urgent,Bob,Closed
+222,Network Down,Urgent,David,In Progress
+223,Software Bug,Low,Bob,In Progress
+224,Software Bug,Urgent,Bob,Resolved
+225,Software Bug,Medium,Alice,Resolved
+226,Hardware Issue,High,Charlie,Closed
+227,Network Down,Low,Charlie,Resolved
+228,Software Bug,Low,Charlie,Closed
+229,Hardware Issue,High,Bob,Open
+230,Software Bug,High,Bob,Resolved
+231,Hardware Issue,Low,Alice,Open
+232,Software Bug,High,David,Closed
+233,Network Down,Low,Charlie,In Progress
+234,Hardware Issue,Medium,Bob,Resolved
+235,Network Down,Urgent,Alice,Closed
+236,Login Failure,Low,Charlie,Resolved
+237,Software Bug,Low,David,Closed
+238,Network Down,Medium,David,Closed
+239,Hardware Issue,Low,Bob,Closed
+240,Software Bug,Medium,Charlie,Open
+241,Network Down,Medium,Bob,Resolved
+242,Login Failure,Urgent,Charlie,Closed
+243,Software Bug,Urgent,Bob,Closed
+244,Network Down,Urgent,Charlie,Resolved
+245,Network Down,Low,Bob,Resolved
+246,Hardware Issue,Low,David,In Progress
+247,Login Failure,Low,Charlie,Open
+248,Network Down,High,Alice,Closed
+249,Login Failure,Low,Charlie,Open
+250,Login Failure,Low,David,Open
+251,Hardware Issue,Medium,Charlie,Resolved
+252,Software Bug,Low,Alice,Open
+253,Hardware Issue,Medium,Charlie,In Progress
+254,Network Down,Urgent,David,Open
+255,Hardware Issue,Medium,Charlie,In Progress
+256,Software Bug,Urgent,Alice,Open
+257,Login Failure,High,Bob,Closed
+258,Hardware Issue,High,David,In Progress
+259,Network Down,Urgent,Alice,Open
+260,Network Down,Low,Charlie,Resolved
+261,Software Bug,Medium,Charlie,Resolved
+262,Hardware Issue,Medium,David,Open
+263,Network Down,Medium,Alice,In Progress
+264,Network Down,Medium,Alice,Open
+265,Login Failure,Urgent,Alice,Closed
+266,Network Down,Medium,David,Open
+267,Software Bug,High,Bob,Resolved
+268,Hardware Issue,Urgent,Charlie,In Progress
+269,Login Failure,Low,Alice,Resolved
+270,Network Down,Urgent,Charlie,Open
+271,Software Bug,Medium,David,Open
+272,Software Bug,High,Charlie,Closed
+273,Login Failure,Low,Charlie,Closed
+274,Network Down,Medium,Bob,Closed
+275,Login Failure,High,Alice,Closed
+276,Hardware Issue,High,Charlie,Open
+277,Hardware Issue,Low,Alice,Resolved
+278,Login Failure,Medium,Charlie,In Progress
+279,Network Down,High,Bob,Closed
+280,Hardware Issue,Medium,Charlie,Open
+281,Software Bug,Low,Charlie,Closed
+282,Software Bug,Medium,David,Resolved
+283,Software Bug,High,Alice,Open
+284,Network Down,Medium,David,Resolved
+285,Login Failure,Medium,Charlie,Resolved
+286,Login Failure,Urgent,Bob,In Progress
+287,Hardware Issue,Low,Charlie,Open
+288,Network Down,Low,Charlie,Open
+289,Software Bug,Medium,Charlie,Closed
+290,Network Down,Medium,David,Resolved
+291,Login Failure,High,Alice,Open
+292,Software Bug,Low,Bob,In Progress
+293,Network Down,Low,Charlie,Resolved
+294,Hardware Issue,Low,David,Closed
+295,Hardware Issue,Medium,Bob,In Progress
+296,Hardware Issue,Low,Bob,Resolved
+297,Login Failure,Low,David,In Progress
+298,Login Failure,Urgent,Bob,Closed
+299,Hardware Issue,Medium,Alice,In Progress
+300,Hardware Issue,High,Bob,In Progress
+301,Network Down,Low,Charlie,Resolved
+302,Network Down,Low,Bob,Closed
+303,Network Down,Urgent,Alice,Open
+304,Hardware Issue,Low,Charlie,Open
+305,Login Failure,Low,Charlie,In Progress
+306,Software Bug,Low,Charlie,Resolved
+307,Login Failure,Low,Charlie,In Progress
+308,Software Bug,High,Charlie,In Progress
+309,Software Bug,Urgent,David,Resolved
+310,Network Down,Low,Alice,Open
+311,Hardware Issue,High,Bob,Resolved
+312,Software Bug,Low,Alice,In Progress
+313,Network Down,Urgent,Charlie,In Progress
+314,Login Failure,Low,Charlie,Open
+315,Network Down,Low,Alice,Closed
+316,Hardware Issue,Low,David,In Progress
+317,Hardware Issue,Low,Bob,Resolved
+318,Network Down,Urgent,Charlie,Open
+319,Login Failure,High,Alice,Open
+320,Login Failure,High,Charlie,Closed
+321,Login Failure,Low,Charlie,Closed
+322,Login Failure,Low,Charlie,Open
+323,Hardware Issue,Urgent,Charlie,Resolved
+324,Login Failure,Medium,Alice,Closed
+325,Login Failure,Medium,Bob,Open
+326,Network Down,Urgent,David,Closed
+327,Network Down,Medium,David,In Progress
+328,Network Down,Medium,Alice,In Progress
+329,Network Down,Urgent,Charlie,Open
+330,Login Failure,Urgent,Alice,Closed
+331,Hardware Issue,Urgent,Alice,Resolved
+332,Network Down,Urgent,Charlie,Open
+333,Software Bug,Medium,David,In Progress
+334,Login Failure,Medium,David,In Progress
+335,Login Failure,Low,Bob,Resolved
+336,Login Failure,Urgent,Alice,In Progress
+337,Network Down,Low,Bob,Open
+338,Network Down,Low,Bob,In Progress
+339,Hardware Issue,High,David,Open
+340,Network Down,Low,Charlie,Open
+341,Software Bug,Medium,Alice,In Progress
+342,Hardware Issue,Urgent,Alice,In Progress
+343,Software Bug,Medium,Bob,In Progress
+344,Network Down,Urgent,David,In Progress
+345,Login Failure,High,Alice,In Progress
+346,Hardware Issue,Urgent,David,Open
+347,Hardware Issue,Low,Alice,In Progress
+348,Login Failure,Low,Charlie,Resolved
+349,Login Failure,Medium,Charlie,Open
+350,Hardware Issue,Medium,Bob,Open
+351,Network Down,Medium,Charlie,Closed
+352,Network Down,Low,Bob,Closed
+353,Hardware Issue,Urgent,Bob,Open
+354,Hardware Issue,High,David,Open
+355,Login Failure,Urgent,Charlie,In Progress
+356,Hardware Issue,Urgent,Alice,Closed
+357,Software Bug,Medium,David,Closed
+358,Login Failure,High,David,Resolved
+359,Hardware Issue,Low,Charlie,Closed
+360,Hardware Issue,Medium,David,Open
+361,Hardware Issue,High,Bob,In Progress
+362,Network Down,Medium,David,Closed
+363,Login Failure,High,Charlie,In Progress
+364,Network Down,Medium,Bob,Resolved
+365,Network Down,High,David,Resolved
+366,Network Down,High,Alice,In Progress
+367,Login Failure,Urgent,David,Closed
+368,Network Down,Urgent,Bob,Closed
+369,Hardware Issue,High,David,Open
+370,Network Down,High,David,Open
+371,Login Failure,Urgent,David,Resolved
+372,Hardware Issue,Medium,Charlie,Open
+373,Software Bug,Medium,Alice,Resolved
+374,Software Bug,Urgent,David,Resolved
+375,Network Down,Urgent,David,Resolved
+376,Login Failure,Medium,Bob,Open
+377,Hardware Issue,Low,Charlie,In Progress
+378,Software Bug,Low,Bob,Closed
+379,Network Down,Urgent,Bob,Closed
+380,Software Bug,Urgent,Alice,Resolved
+381,Hardware Issue,Urgent,Bob,Closed
+382,Network Down,Urgent,David,Open
+383,Software Bug,Low,Charlie,Resolved
+384,Login Failure,High,David,Closed
+385,Login Failure,High,David,Closed
+386,Software Bug,Low,David,In Progress
+387,Login Failure,High,David,Resolved
+388,Hardware Issue,High,Bob,Resolved
+389,Login Failure,Urgent,Charlie,Open
+390,Login Failure,Low,David,Closed
+391,Login Failure,Medium,Alice,Open
+392,Hardware Issue,Low,Alice,Open
+393,Network Down,Low,Bob,Closed
+394,Network Down,Urgent,Alice,In Progress
+395,Network Down,Urgent,Alice,In Progress
+396,Software Bug,Urgent,Bob,In Progress
+397,Hardware Issue,Urgent,Charlie,Open
+398,Hardware Issue,High,David,Resolved
+399,Login Failure,Urgent,Alice,In Progress
+400,Login Failure,Low,Alice,Resolved
+401,Software Bug,Medium,Bob,Resolved
+402,Network Down,Medium,Bob,Closed
+403,Network Down,Medium,Charlie,Closed
+404,Software Bug,Medium,Bob,Open
+405,Hardware Issue,Urgent,Charlie,Resolved
+406,Login Failure,Low,Bob,In Progress
+407,Network Down,Low,David,In Progress
+408,Software Bug,Medium,Charlie,Open
+409,Software Bug,Urgent,Alice,Closed
+410,Hardware Issue,Urgent,David,Open
+411,Hardware Issue,Medium,Alice,In Progress
+412,Software Bug,Medium,Alice,Open
+413,Software Bug,Medium,Alice,Closed
+414,Software Bug,Low,Bob,Resolved
+415,Software Bug,Medium,Charlie,Closed
+416,Login Failure,Urgent,Bob,Closed
+417,Login Failure,Low,David,Resolved
+418,Hardware Issue,Urgent,Charlie,Resolved
+419,Login Failure,Low,David,Closed
+420,Software Bug,Low,Charlie,Closed
+421,Hardware Issue,Urgent,David,In Progress
+422,Hardware Issue,Low,David,In Progress
+423,Network Down,Medium,David,Closed
+424,Hardware Issue,Medium,Alice,Closed
+425,Network Down,Medium,Charlie,In Progress
+426,Network Down,Low,Charlie,In Progress
+427,Hardware Issue,High,Bob,Closed
+428,Login Failure,High,Bob,Resolved
+429,Network Down,High,Bob,Closed
+430,Hardware Issue,Low,Charlie,Open
+431,Network Down,Medium,Alice,Open
+432,Network Down,High,Alice,Resolved
+433,Network Down,High,Charlie,Open
+434,Software Bug,Medium,Bob,Resolved
+435,Network Down,Low,Alice,Closed
+436,Hardware Issue,High,Charlie,Closed
+437,Network Down,Medium,Alice,Closed
+438,Software Bug,High,Charlie,Closed
+439,Login Failure,Medium,Alice,Closed
+440,Software Bug,Medium,Bob,Closed
+441,Hardware Issue,High,Bob,Resolved
+442,Hardware Issue,Low,David,Resolved
+443,Network Down,Urgent,Alice,Open
+444,Hardware Issue,Urgent,Alice,Open
+445,Software Bug,Urgent,Alice,Resolved
+446,Login Failure,Low,David,Resolved
+447,Network Down,Low,Bob,Resolved
+448,Software Bug,High,Alice,Resolved
+449,Login Failure,Low,Alice,Resolved
+450,Login Failure,Medium,Alice,Open
+451,Hardware Issue,Medium,Bob,Closed
+452,Login Failure,High,David,Open
+453,Software Bug,High,Alice,Resolved
+454,Login Failure,Medium,Charlie,Open
+455,Login Failure,High,Charlie,Open
+456,Login Failure,Medium,Alice,Resolved
+457,Software Bug,High,Alice,Resolved
+458,Login Failure,Urgent,Bob,Resolved
+459,Login Failure,Urgent,Alice,Closed
+460,Software Bug,Medium,Charlie,Resolved
+461,Software Bug,Urgent,Charlie,In Progress
+462,Hardware Issue,Urgent,Bob,Closed
+463,Login Failure,High,David,Open
+464,Login Failure,Urgent,David,Closed
+465,Network Down,Medium,Bob,In Progress
+466,Software Bug,High,Charlie,Open
+467,Login Failure,Urgent,Alice,Resolved
+468,Software Bug,Urgent,Alice,Resolved
+469,Software Bug,Medium,David,Open
+470,Hardware Issue,Low,Alice,Open
+471,Login Failure,Low,Bob,Open
+472,Login Failure,Urgent,Alice,In Progress
+473,Hardware Issue,High,David,Open
+474,Software Bug,High,Bob,Open
+475,Login Failure,Low,Bob,Closed
+476,Network Down,Urgent,David,Closed
+477,Network Down,High,David,In Progress
+478,Network Down,High,David,In Progress
+479,Software Bug,High,Charlie,Closed
+480,Software Bug,Urgent,David,Resolved
+481,Login Failure,High,Bob,Open
+482,Network Down,Low,David,Open
+483,Hardware Issue,Urgent,Bob,In Progress
+484,Software Bug,Medium,Charlie,In Progress
+485,Software Bug,Medium,Bob,Closed
+486,Hardware Issue,Low,David,Closed
+487,Network Down,Urgent,David,Resolved
+488,Hardware Issue,Low,David,Resolved
+489,Software Bug,High,David,In Progress
+490,Login Failure,Medium,David,Open
+491,Network Down,Medium,David,Resolved
+492,Network Down,Medium,Alice,In Progress
+493,Software Bug,Low,Alice,Closed
+494,Software Bug,Medium,Charlie,In Progress
+495,Login Failure,High,Alice,Closed
+496,Software Bug,Low,Bob,Open
+497,Software Bug,Urgent,Alice,In Progress
+498,Hardware Issue,Urgent,Charlie,Open
+499,Login Failure,Low,Charlie,In Progress
+500,Software Bug,Low,Alice,Closed

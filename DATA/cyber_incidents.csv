@@ -1,0 +1,501 @@
+incident_id,type,severity,affected_system,date
+1,Phishing,High,Website,2023-01-01
+2,Malware,Critical,Internal Network,2023-01-02
+3,Malware,Critical,Database,2023-01-03
+4,Data Breach,Critical,Email Server,2023-01-04
+5,DDoS,Critical,Internal Network,2023-01-05
+6,Ransomware,High,Website,2023-01-06
+7,Phishing,Low,Email Server,2023-01-07
+8,DDoS,High,Website,2023-01-08
+9,DDoS,Critical,Website,2023-01-09
+10,Malware,Low,Internal Network,2023-01-10
+11,Phishing,High,Email Server,2023-01-11
+12,Data Breach,Medium,Internal Network,2023-01-12
+13,Ransomware,Critical,Website,2023-01-13
+14,Data Breach,Critical,Website,2023-01-14
+15,Ransomware,Critical,Internal Network,2023-01-15
+16,Ransomware,Medium,Internal Network,2023-01-16
+17,Ransomware,Low,Internal Network,2023-01-17
+18,Data Breach,Medium,Email Server,2023-01-18
+19,DDoS,Medium,Internal Network,2023-01-19
+20,Phishing,Low,Database,2023-01-20
+21,Data Breach,Low,Internal Network,2023-01-21
+22,Ransomware,Critical,Internal Network,2023-01-22
+23,Malware,Low,Website,2023-01-23
+24,Data Breach,Medium,Internal Network,2023-01-24
+25,Malware,Critical,Email Server,2023-01-25
+26,Data Breach,Low,Website,2023-01-26
+27,Malware,Medium,Email Server,2023-01-27
+28,Data Breach,Medium,Website,2023-01-28
+29,Malware,Low,Database,2023-01-29
+30,Phishing,Low,Website,2023-01-30
+31,Phishing,High,Internal Network,2023-01-31
+32,Ransomware,High,Email Server,2023-02-01
+33,Data Breach,High,Email Server,2023-02-02
+34,Malware,Critical,Database,2023-02-03
+35,Phishing,Medium,Website,2023-02-04
+36,Data Breach,Critical,Database,2023-02-05
+37,Data Breach,Medium,Website,2023-02-06
+38,Malware,Critical,Website,2023-02-07
+39,Ransomware,Low,Database,2023-02-08
+40,Data Breach,Medium,Website,2023-02-09
+41,DDoS,Low,Website,2023-02-10
+42,Ransomware,Medium,Internal Network,2023-02-11
+43,Malware,Low,Email Server,2023-02-12
+44,DDoS,High,Email Server,2023-02-13
+45,Ransomware,Critical,Database,2023-02-14
+46,Phishing,Low,Database,2023-02-15
+47,Data Breach,High,Database,2023-02-16
+48,Data Breach,Critical,Internal Network,2023-02-17
+49,Data Breach,Critical,Website,2023-02-18
+50,Data Breach,Medium,Email Server,2023-02-19
+51,DDoS,Low,Website,2023-02-20
+52,Ransomware,Medium,Internal Network,2023-02-21
+53,Data Breach,Medium,Database,2023-02-22
+54,Data Breach,Critical,Website,2023-02-23
+55,Ransomware,Critical,Internal Network,2023-02-24
+56,Data Breach,Critical,Database,2023-02-25
+57,Phishing,Medium,Email Server,2023-02-26
+58,DDoS,Low,Email Server,2023-02-27
+59,Data Breach,Low,Internal Network,2023-02-28
+60,Data Breach,High,Email Server,2023-03-01
+61,Data Breach,Critical,Email Server,2023-03-02
+62,Phishing,Medium,Website,2023-03-03
+63,DDoS,Critical,Database,2023-03-04
+64,Ransomware,Critical,Database,2023-03-05
+65,DDoS,Critical,Database,2023-03-06
+66,DDoS,Medium,Internal Network,2023-03-07
+67,Phishing,Low,Internal Network,2023-03-08
+68,Data Breach,Critical,Database,2023-03-09
+69,Malware,Medium,Database,2023-03-10
+70,Data Breach,Low,Email Server,2023-03-11
+71,DDoS,Medium,Website,2023-03-12
+72,DDoS,Medium,Website,2023-03-13
+73,Phishing,Critical,Internal Network,2023-03-14
+74,Phishing,Low,Email Server,2023-03-15
+75,Phishing,Critical,Website,2023-03-16
+76,Data Breach,Low,Email Server,2023-03-17
+77,Data Breach,Critical,Internal Network,2023-03-18
+78,Malware,Critical,Database,2023-03-19
+79,DDoS,Critical,Email Server,2023-03-20
+80,Ransomware,Low,Website,2023-03-21
+81,Phishing,High,Email Server,2023-03-22
+82,Phishing,High,Email Server,2023-03-23
+83,DDoS,Low,Email Server,2023-03-24
+84,DDoS,Critical,Database,2023-03-25
+85,Malware,Medium,Database,2023-03-26
+86,Phishing,Medium,Database,2023-03-27
+87,Data Breach,Medium,Website,2023-03-28
+88,Data Breach,Medium,Internal Network,2023-03-29
+89,Phishing,High,Database,2023-03-30
+90,DDoS,High,Email Server,2023-03-31
+91,DDoS,High,Website,2023-04-01
+92,Phishing,Critical,Internal Network,2023-04-02
+93,Ransomware,Critical,Email Server,2023-04-03
+94,Data Breach,Medium,Email Server,2023-04-04
+95,Ransomware,High,Email Server,2023-04-05
+96,Ransomware,Critical,Email Server,2023-04-06
+97,Data Breach,Critical,Website,2023-04-07
+98,Ransomware,Low,Database,2023-04-08
+99,Phishing,Critical,Email Server,2023-04-09
+100,Malware,Medium,Internal Network,2023-04-10
+101,Data Breach,Critical,Database,2023-04-11
+102,DDoS,Medium,Database,2023-04-12
+103,DDoS,Medium,Database,2023-04-13
+104,Ransomware,Critical,Website,2023-04-14
+105,Ransomware,Critical,Database,2023-04-15
+106,Malware,Low,Internal Network,2023-04-16
+107,Malware,High,Database,2023-04-17
+108,Phishing,Low,Internal Network,2023-04-18
+109,Ransomware,Low,Database,2023-04-19
+110,Ransomware,High,Email Server,2023-04-20
+111,Data Breach,Medium,Database,2023-04-21
+112,Phishing,Medium,Internal Network,2023-04-22
+113,Data Breach,High,Website,2023-04-23
+114,Data Breach,High,Email Server,2023-04-24
+115,Phishing,Low,Website,2023-04-25
+116,Data Breach,Medium,Internal Network,2023-04-26
+117,DDoS,Critical,Website,2023-04-27
+118,DDoS,High,Website,2023-04-28
+119,Data Breach,Critical,Website,2023-04-29
+120,Data Breach,Medium,Website,2023-04-30
+121,Ransomware,Critical,Website,2023-05-01
+122,Phishing,Medium,Database,2023-05-02
+123,Ransomware,High,Email Server,2023-05-03
+124,Data Breach,Medium,Internal Network,2023-05-04
+125,Phishing,Low,Email Server,2023-05-05
+126,Data Breach,High,Internal Network,2023-05-06
+127,Ransomware,Low,Email Server,2023-05-07
+128,DDoS,Low,Website,2023-05-08
+129,Phishing,Medium,Database,2023-05-09
+130,Malware,Medium,Email Server,2023-05-10
+131,Phishing,Low,Database,2023-05-11
+132,Malware,Medium,Database,2023-05-12
+133,Malware,High,Database,2023-05-13
+134,Ransomware,High,Website,2023-05-14
+135,Ransomware,High,Database,2023-05-15
+136,Phishing,Critical,Internal Network,2023-05-16
+137,Data Breach,Critical,Website,2023-05-17
+138,DDoS,Medium,Internal Network,2023-05-18
+139,Ransomware,Critical,Database,2023-05-19
+140,Malware,Low,Database,2023-05-20
+141,Malware,Critical,Internal Network,2023-05-21
+142,Malware,Medium,Database,2023-05-22
+143,DDoS,High,Email Server,2023-05-23
+144,Ransomware,High,Internal Network,2023-05-24
+145,Phishing,High,Database,2023-05-25
+146,DDoS,Medium,Website,2023-05-26
+147,Malware,High,Website,2023-05-27
+148,DDoS,Low,Database,2023-05-28
+149,Ransomware,Medium,Email Server,2023-05-29
+150,Data Breach,Medium,Database,2023-05-30
+151,Phishing,Low,Internal Network,2023-05-31
+152,Phishing,Low,Website,2023-06-01
+153,DDoS,Low,Database,2023-06-02
+154,Data Breach,Critical,Database,2023-06-03
+155,DDoS,High,Database,2023-06-04
+156,Data Breach,Medium,Website,2023-06-05
+157,Ransomware,Critical,Database,2023-06-06
+158,Data Breach,Low,Website,2023-06-07
+159,DDoS,Low,Website,2023-06-08
+160,DDoS,Critical,Website,2023-06-09
+161,Ransomware,Medium,Internal Network,2023-06-10
+162,Ransomware,High,Internal Network,2023-06-11
+163,Data Breach,Critical,Database,2023-06-12
+164,Malware,Low,Website,2023-06-13
+165,Phishing,Low,Internal Network,2023-06-14
+166,Malware,Low,Internal Network,2023-06-15
+167,Data Breach,Medium,Website,2023-06-16
+168,Data Breach,High,Website,2023-06-17
+169,Malware,Medium,Email Server,2023-06-18
+170,Phishing,Critical,Website,2023-06-19
+171,Data Breach,Low,Website,2023-06-20
+172,DDoS,Critical,Database,2023-06-21
+173,Phishing,Medium,Database,2023-06-22
+174,Data Breach,Critical,Email Server,2023-06-23
+175,Data Breach,High,Internal Network,2023-06-24
+176,Ransomware,High,Website,2023-06-25
+177,Ransomware,Medium,Email Server,2023-06-26
+178,Data Breach,Low,Database,2023-06-27
+179,Malware,High,Website,2023-06-28
+180,DDoS,High,Website,2023-06-29
+181,DDoS,High,Website,2023-06-30
+182,DDoS,Medium,Email Server,2023-07-01
+183,Data Breach,Medium,Email Server,2023-07-02
+184,Phishing,Medium,Internal Network,2023-07-03
+185,Ransomware,Low,Internal Network,2023-07-04
+186,Data Breach,Medium,Website,2023-07-05
+187,Ransomware,Medium,Website,2023-07-06
+188,Ransomware,High,Email Server,2023-07-07
+189,Phishing,Critical,Website,2023-07-08
+190,Ransomware,Critical,Database,2023-07-09
+191,DDoS,Critical,Email Server,2023-07-10
+192,Phishing,Critical,Email Server,2023-07-11
+193,DDoS,Critical,Internal Network,2023-07-12
+194,Malware,Low,Email Server,2023-07-13
+195,Phishing,Low,Website,2023-07-14
+196,Data Breach,Low,Email Server,2023-07-15
+197,DDoS,Critical,Database,2023-07-16
+198,DDoS,Low,Website,2023-07-17
+199,Ransomware,Critical,Email Server,2023-07-18
+200,DDoS,Medium,Internal Network,2023-07-19
+201,Ransomware,Critical,Database,2023-07-20
+202,Ransomware,Critical,Database,2023-07-21
+203,Malware,Low,Website,2023-07-22
+204,Phishing,Medium,Website,2023-07-23
+205,Malware,High,Database,2023-07-24
+206,Malware,Low,Internal Network,2023-07-25
+207,Phishing,Low,Email Server,2023-07-26
+208,Malware,High,Email Server,2023-07-27
+209,Data Breach,Low,Website,2023-07-28
+210,Phishing,High,Email Server,2023-07-29
+211,Ransomware,Medium,Internal Network,2023-07-30
+212,Ransomware,High,Website,2023-07-31
+213,Phishing,Medium,Internal Network,2023-08-01
+214,DDoS,High,Website,2023-08-02
+215,Ransomware,Medium,Email Server,2023-08-03
+216,Phishing,Critical,Database,2023-08-04
+217,Malware,Low,Email Server,2023-08-05
+218,Phishing,Critical,Website,2023-08-06
+219,Ransomware,High,Database,2023-08-07
+220,Data Breach,Critical,Email Server,2023-08-08
+221,Phishing,Medium,Website,2023-08-09
+222,Phishing,Low,Database,2023-08-10
+223,Data Breach,Critical,Database,2023-08-11
+224,Data Breach,Low,Database,2023-08-12
+225,Ransomware,Critical,Database,2023-08-13
+226,Data Breach,High,Email Server,2023-08-14
+227,Malware,High,Database,2023-08-15
+228,Data Breach,Medium,Email Server,2023-08-16
+229,Phishing,Low,Database,2023-08-17
+230,Ransomware,Critical,Database,2023-08-18
+231,Malware,Medium,Database,2023-08-19
+232,Phishing,High,Database,2023-08-20
+233,Data Breach,High,Website,2023-08-21
+234,Data Breach,High,Email Server,2023-08-22
+235,Malware,High,Internal Network,2023-08-23
+236,Phishing,Medium,Database,2023-08-24
+237,Ransomware,High,Database,2023-08-25
+238,DDoS,Low,Internal Network,2023-08-26
+239,Phishing,Low,Website,2023-08-27
+240,Malware,High,Database,2023-08-28
+241,Malware,Medium,Database,2023-08-29
+242,Phishing,Critical,Database,2023-08-30
+243,Malware,Low,Email Server,2023-08-31
+244,Phishing,High,Internal Network,2023-09-01
+245,Ransomware,Critical,Internal Network,2023-09-02
+246,Data Breach,Low,Database,2023-09-03
+247,Phishing,High,Internal Network,2023-09-04
+248,DDoS,Critical,Email Server,2023-09-05
+249,DDoS,Medium,Email Server,2023-09-06
+250,Ransomware,Medium,Website,2023-09-07
+251,Ransomware,High,Internal Network,2023-09-08
+252,Phishing,Critical,Internal Network,2023-09-09
+253,Phishing,Medium,Website,2023-09-10
+254,Data Breach,Medium,Internal Network,2023-09-11
+255,DDoS,Medium,Email Server,2023-09-12
+256,Ransomware,Low,Website,2023-09-13
+257,Phishing,Critical,Email Server,2023-09-14
+258,Malware,Low,Database,2023-09-15
+259,Malware,Critical,Website,2023-09-16
+260,Data Breach,High,Website,2023-09-17
+261,Data Breach,Critical,Email Server,2023-09-18
+262,Malware,Critical,Website,2023-09-19
+263,Phishing,Medium,Website,2023-09-20
+264,Data Breach,Critical,Internal Network,2023-09-21
+265,Phishing,Low,Database,2023-09-22
+266,Malware,Medium,Email Server,2023-09-23
+267,Ransomware,Low,Website,2023-09-24
+268,Malware,Critical,Website,2023-09-25
+269,Ransomware,High,Internal Network,2023-09-26
+270,Data Breach,Low,Email Server,2023-09-27
+271,Data Breach,Low,Website,2023-09-28
+272,Ransomware,Critical,Database,2023-09-29
+273,Data Breach,Medium,Email Server,2023-09-30
+274,Ransomware,Medium,Website,2023-10-01
+275,Malware,Low,Website,2023-10-02
+276,Phishing,Medium,Website,2023-10-03
+277,Malware,High,Database,2023-10-04
+278,Phishing,Medium,Internal Network,2023-10-05
+279,Phishing,Critical,Email Server,2023-10-06
+280,Data Breach,Critical,Internal Network,2023-10-07
+281,Phishing,High,Email Server,2023-10-08
+282,Ransomware,Medium,Website,2023-10-09
+283,Data Breach,Low,Internal Network,2023-10-10
+284,Data Breach,Low,Internal Network,2023-10-11
+285,Ransomware,Critical,Database,2023-10-12
+286,Ransomware,Critical,Website,2023-10-13
+287,Phishing,Low,Website,2023-10-14
+288,Phishing,Medium,Website,2023-10-15
+289,Data Breach,Low,Database,2023-10-16
+290,Data Breach,High,Database,2023-10-17
+291,Phishing,Critical,Database,2023-10-18
+292,Malware,Critical,Email Server,2023-10-19
+293,Phishing,Low,Email Server,2023-10-20
+294,Malware,Critical,Database,2023-10-21
+295,Malware,Critical,Website,2023-10-22
+296,Phishing,High,Database,2023-10-23
+297,DDoS,Low,Website,2023-10-24
+298,Ransomware,Medium,Email Server,2023-10-25
+299,Malware,Low,Email Server,2023-10-26
+300,Data Breach,Low,Email Server,2023-10-27
+301,Data Breach,High,Website,2023-10-28
+302,Malware,Critical,Internal Network,2023-10-29
+303,DDoS,Critical,Website,2023-10-30
+304,Data Breach,Critical,Email Server,2023-10-31
+305,Ransomware,Critical,Internal Network,2023-11-01
+306,Data Breach,Medium,Database,2023-11-02
+307,Ransomware,Medium,Internal Network,2023-11-03
+308,Malware,Critical,Website,2023-11-04
+309,Data Breach,High,Database,2023-11-05
+310,Malware,Medium,Database,2023-11-06
+311,Data Breach,Critical,Website,2023-11-07
+312,Ransomware,Medium,Email Server,2023-11-08
+313,DDoS,High,Database,2023-11-09
+314,Malware,High,Website,2023-11-10
+315,DDoS,Low,Email Server,2023-11-11
+316,Malware,Medium,Internal Network,2023-11-12
+317,Phishing,High,Website,2023-11-13
+318,Ransomware,High,Internal Network,2023-11-14
+319,Data Breach,Critical,Email Server,2023-11-15
+320,Malware,High,Internal Network,2023-11-16
+321,Phishing,Low,Internal Network,2023-11-17
+322,Phishing,Medium,Database,2023-11-18
+323,Phishing,High,Email Server,2023-11-19
+324,Malware,Low,Internal Network,2023-11-20
+325,DDoS,Low,Database,2023-11-21
+326,Ransomware,Critical,Internal Network,2023-11-22
+327,DDoS,Critical,Internal Network,2023-11-23
+328,Data Breach,High,Internal Network,2023-11-24
+329,Phishing,Critical,Website,2023-11-25
+330,Malware,High,Email Server,2023-11-26
+331,Ransomware,High,Database,2023-11-27
+332,Ransomware,Critical,Database,2023-11-28
+333,DDoS,Medium,Website,2023-11-29
+334,DDoS,Critical,Website,2023-11-30
+335,Ransomware,Low,Website,2023-12-01
+336,DDoS,High,Email Server,2023-12-02
+337,Data Breach,Critical,Internal Network,2023-12-03
+338,Data Breach,Critical,Internal Network,2023-12-04
+339,DDoS,Low,Internal Network,2023-12-05
+340,DDoS,Medium,Database,2023-12-06
+341,DDoS,Medium,Website,2023-12-07
+342,Phishing,Low,Internal Network,2023-12-08
+343,Data Breach,Medium,Website,2023-12-09
+344,Malware,High,Database,2023-12-10
+345,Malware,Critical,Internal Network,2023-12-11
+346,DDoS,Low,Website,2023-12-12
+347,Ransomware,Critical,Email Server,2023-12-13
+348,Malware,Low,Email Server,2023-12-14
+349,Data Breach,Critical,Database,2023-12-15
+350,Phishing,High,Internal Network,2023-12-16
+351,Data Breach,Medium,Internal Network,2023-12-17
+352,Malware,High,Database,2023-12-18
+353,Ransomware,Critical,Email Server,2023-12-19
+354,Phishing,Critical,Internal Network,2023-12-20
+355,Data Breach,Critical,Email Server,2023-12-21
+356,Phishing,Low,Database,2023-12-22
+357,Phishing,Low,Website,2023-12-23
+358,Phishing,Critical,Internal Network,2023-12-24
+359,Phishing,Low,Database,2023-12-25
+360,Malware,Low,Website,2023-12-26
+361,Data Breach,Medium,Website,2023-12-27
+362,DDoS,Critical,Email Server,2023-12-28
+363,Data Breach,Medium,Database,2023-12-29
+364,DDoS,High,Email Server,2023-12-30
+365,Ransomware,Low,Database,2023-12-31
+366,Phishing,Low,Database,2024-01-01
+367,Malware,Medium,Database,2024-01-02
+368,Malware,Medium,Website,2024-01-03
+369,Phishing,Critical,Internal Network,2024-01-04
+370,Phishing,High,Website,2024-01-05
+371,DDoS,Critical,Internal Network,2024-01-06
+372,DDoS,Medium,Email Server,2024-01-07
+373,Data Breach,Critical,Internal Network,2024-01-08
+374,Phishing,Low,Database,2024-01-09
+375,DDoS,Medium,Website,2024-01-10
+376,Data Breach,Medium,Database,2024-01-11
+377,Malware,High,Website,2024-01-12
+378,Data Breach,Critical,Website,2024-01-13
+379,Phishing,High,Database,2024-01-14
+380,Ransomware,Medium,Database,2024-01-15
+381,Data Breach,Critical,Internal Network,2024-01-16
+382,Ransomware,Critical,Email Server,2024-01-17
+383,Ransomware,Low,Email Server,2024-01-18
+384,Ransomware,Critical,Database,2024-01-19
+385,Data Breach,Low,Database,2024-01-20
+386,Malware,High,Email Server,2024-01-21
+387,DDoS,Critical,Email Server,2024-01-22
+388,Ransomware,Low,Internal Network,2024-01-23
+389,DDoS,Medium,Internal Network,2024-01-24
+390,DDoS,Medium,Database,2024-01-25
+391,Data Breach,Critical,Internal Network,2024-01-26
+392,Ransomware,Low,Database,2024-01-27
+393,Malware,Critical,Database,2024-01-28
+394,Ransomware,Low,Email Server,2024-01-29
+395,Data Breach,Critical,Database,2024-01-30
+396,Data Breach,High,Database,2024-01-31
+397,Data Breach,High,Email Server,2024-02-01
+398,Malware,Low,Website,2024-02-02
+399,DDoS,High,Internal Network,2024-02-03
+400,Data Breach,Critical,Email Server,2024-02-04
+401,Phishing,Low,Internal Network,2024-02-05
+402,DDoS,Low,Website,2024-02-06
+403,Data Breach,High,Email Server,2024-02-07
+404,Data Breach,Critical,Email Server,2024-02-08
+405,Ransomware,High,Email Server,2024-02-09
+406,Phishing,Low,Email Server,2024-02-10
+407,Malware,High,Internal Network,2024-02-11
+408,Data Breach,Medium,Website,2024-02-12
+409,Data Breach,Low,Email Server,2024-02-13
+410,Phishing,Critical,Email Server,2024-02-14
+411,Data Breach,Low,Database,2024-02-15
+412,Ransomware,High,Internal Network,2024-02-16
+413,Ransomware,High,Internal Network,2024-02-17
+414,DDoS,Low,Database,2024-02-18
+415,Ransomware,Medium,Database,2024-02-19
+416,Data Breach,Low,Email Server,2024-02-20
+417,Data Breach,High,Database,2024-02-21
+418,Data Breach,Medium,Website,2024-02-22
+419,Malware,Medium,Internal Network,2024-02-23
+420,Ransomware,Critical,Email Server,2024-02-24
+421,Data Breach,Critical,Internal Network,2024-02-25
+422,DDoS,Medium,Database,2024-02-26
+423,Ransomware,Medium,Website,2024-02-27
+424,DDoS,Critical,Database,2024-02-28
+425,DDoS,Medium,Email Server,2024-02-29
+426,Ransomware,Medium,Internal Network,2024-03-01
+427,Data Breach,High,Email Server,2024-03-02
+428,Ransomware,High,Database,2024-03-03
+429,Data Breach,Medium,Website,2024-03-04
+430,Phishing,Medium,Internal Network,2024-03-05
+431,Ransomware,Critical,Internal Network,2024-03-06
+432,DDoS,Low,Website,2024-03-07
+433,Ransomware,Critical,Email Server,2024-03-08
+434,Phishing,Medium,Internal Network,2024-03-09
+435,Ransomware,Low,Internal Network,2024-03-10
+436,Malware,Low,Internal Network,2024-03-11
+437,DDoS,Critical,Internal Network,2024-03-12
+438,Phishing,Low,Email Server,2024-03-13
+439,Ransomware,Critical,Website,2024-03-14
+440,Malware,Critical,Website,2024-03-15
+441,Phishing,High,Website,2024-03-16
+442,Data Breach,Medium,Website,2024-03-17
+443,Malware,Medium,Database,2024-03-18
+444,Ransomware,Medium,Email Server,2024-03-19
+445,Phishing,Critical,Email Server,2024-03-20
+446,Ransomware,Low,Email Server,2024-03-21
+447,Ransomware,High,Website,2024-03-22
+448,Data Breach,Medium,Internal Network,2024-03-23
+449,Malware,Critical,Internal Network,2024-03-24
+450,DDoS,Medium,Internal Network,2024-03-25
+451,Phishing,High,Website,2024-03-26
+452,Data Breach,Medium,Email Server,2024-03-27
+453,Phishing,Low,Website,2024-03-28
+454,Data Breach,High,Website,2024-03-29
+455,Data Breach,Low,Database,2024-03-30
+456,DDoS,Critical,Internal Network,2024-03-31
+457,Data Breach,Critical,Email Server,2024-04-01
+458,Ransomware,High,Website,2024-04-02
+459,Phishing,Medium,Internal Network,2024-04-03
+460,Ransomware,Medium,Website,2024-04-04
+461,Malware,Low,Internal Network,2024-04-05
+462,Phishing,Low,Website,2024-04-06
+463,Ransomware,Critical,Internal Network,2024-04-07
+464,Phishing,Critical,Website,2024-04-08
+465,Phishing,Critical,Website,2024-04-09
+466,DDoS,Low,Website,2024-04-10
+467,DDoS,High,Database,2024-04-11
+468,Malware,Low,Email Server,2024-04-12
+469,Phishing,Medium,Database,2024-04-13
+470,DDoS,Medium,Internal Network,2024-04-14
+471,Ransomware,High,Internal Network,2024-04-15
+472,Phishing,Low,Email Server,2024-04-16
+473,DDoS,Low,Database,2024-04-17
+474,Ransomware,Critical,Database,2024-04-18
+475,Ransomware,High,Email Server,2024-04-19
+476,Data Breach,High,Website,2024-04-20
+477,Phishing,Medium,Internal Network,2024-04-21
+478,Data Breach,Medium,Database,2024-04-22
+479,Malware,Critical,Database,2024-04-23
+480,DDoS,Low,Website,2024-04-24
+481,Ransomware,Low,Website,2024-04-25
+482,DDoS,Medium,Website,2024-04-26
+483,Phishing,Medium,Email Server,2024-04-27
+484,Ransomware,High,Internal Network,2024-04-28
+485,Malware,Critical,Website,2024-04-29
+486,DDoS,Medium,Database,2024-04-30
+487,Data Breach,Low,Internal Network,2024-05-01
+488,Malware,Critical,Internal Network,2024-05-02
+489,DDoS,Low,Email Server,2024-05-03
+490,Ransomware,Low,Website,2024-05-04
+491,Ransomware,Critical,Internal Network,2024-05-05
+492,DDoS,Critical,Email Server,2024-05-06
+493,Data Breach,Low,Database,2024-05-07
+494,Data Breach,Medium,Database,2024-05-08
+495,Ransomware,Low,Email Server,2024-05-09
+496,Data Breach,Critical,Internal Network,2024-05-10
+497,Ransomware,High,Email Server,2024-05-11
+498,Data Breach,Critical,Email Server,2024-05-12
+499,Data Breach,Medium,Internal Network,2024-05-13
+500,Phishing,Low,Internal Network,2024-05-14
