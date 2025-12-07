@@ -1,0 +1,5 @@
+Zahny,$2b$12$T/9EzmeSyK90I7nNuykbUeR/xMPO.pUiNwqbq06kh38Zec9WNUOuK,admin
+Amsha,$2b$12$jvnFpHFqPORvVI7qmVtGw.wTPb6S6c4jA9uHJJiblEJys/y2F06MW,analyst
+Hanan,$2b$12$BGovqETjxehlXHymCzPNku2R0R5xkEJCmyHxFX4RGupSf9v9AxTEa,analyst
+Hudha,$2b$12$KKYgoguyobhwCFjWNPddE.0Ors0gLL321n8zdQUG9Ta/LMfpGesQ6,analyst
+Bob,$2b$12$k0hTY0LywKhB.KsSvGFtWO7IcukZpbO957pnhfRnRX2DC/5hPZ0gm,admin
